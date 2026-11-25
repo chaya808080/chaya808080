@@ -76,12 +76,22 @@
 
 ---
 
+## פרויקטים נוספים (קוד פתוח)
+
+| פרויקט | תיאור | טכנולוגיות |
+|---|---|---|
+| [מערכת לסטודיו לאדריכלות](https://github.com/chaya808080/architect-studio) | אתר לקוחות, ממשק ניהול עם מנוע זמינות לקביעת פגישות, וחתימה דיגיטלית על הסכם | ASP.NET Core, EF Core, SQL Server, React, Redux |
+| [אקורד: ניהול בית ספר לנגינה](https://github.com/chaya808080/akord-music-school) | ניהול תלמידים, מורים וקורסים, ודף בית עם פסנתר אינטראקטיבי | ‎.NET 8, EF Core, SQL Server, React, Redux |
+
+---
+
 ## טכנולוגיות
 
 | תחום | כלים |
 |---|---|
 | Frontend | React, TypeScript, Vite, Tailwind, React Router, TanStack Query |
 | מסד נתונים | PostgreSQL (Supabase), Row Level Security, Edge Functions |
+| Backend | C#, ASP.NET Core Web API, Entity Framework Core, SQL Server |
 | DevOps | Git, GitHub Actions, Cloudflare Pages |
 | ארכיטקטורה | Serverless, Repository pattern, מיגרציות |
 
