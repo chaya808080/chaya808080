@@ -80,7 +80,7 @@
 
 | פרויקט | תיאור | טכנולוגיות |
 |---|---|---|
-| [מערכת לסטודיו לאדריכלות](https://github.com/chaya808080/architect-studio) | אתר לקוחות, ממשק ניהול עם מנוע זמינות לקביעת פגישות, וחתימה דיגיטלית על הסכם | ASP.NET Core, EF Core, SQL Server, React, Redux |
+| [אטלייה: מערכת חכמה לסטודיו לאדריכלות](https://github.com/chaya808080/architect-studio) · [הדגמה חיה](https://chaya808080.github.io/architect-studio/) | CRM עם ציון לידים, הצעות מחיר עם חתימה דיגיטלית, בריאות פרויקטים, יומן שמחשב זמני נסיעה, מתכנן חדרים, חילוץ פלטת צבעים ופורטל לקוח | ‎.NET 8, EF Core, SQL Server, React, TypeScript, Redux |
 | [אקורד: מערכת חכמה לבית ספר לנגינה](https://github.com/chaya808080/akord-music-school) · [הדגמה חיה](https://chaya808080.github.io/akord-music-school/) | שיבוץ אוטומטי, חיזוי נשירה, תחזית הכנסות עם סימולטור, עוזר חכם בעברית, CI/CD עם 80 בדיקות | ‎.NET 8, EF Core, SQL Server, React, TypeScript, Redux |
 
 ---
